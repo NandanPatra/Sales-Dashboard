@@ -53,7 +53,7 @@ As a beginner in Power BI and data analytics, this project helped me gain practi
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](Screenshot 2026-01-17 003518.png)
+[![Dashboard Preview](Screenshot 2026-01-17 003518.png)](Screenshot 2026-01-17 003518.png)
 
 ---
 
