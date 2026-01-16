@@ -42,13 +42,6 @@ As a beginner in Power BI and data analytics, this project helped me gain practi
 - **New customers (0–12 months tenure)** show higher churn probability  
 - **Fiber optic users** churn more compared to DSL users  
 
----
-
-## 📁 Project Files
-- `Customer_Churn_Analysis.pbix` – Power BI dashboard file  
-- `customer_churn_data.csv` – Dataset used for analysis  
-- `dashboard_preview.png` – Dashboard screenshot  
-- `README.md` – Project documentation  
 
 ---
 
@@ -57,7 +50,10 @@ As a beginner in Power BI and data analytics, this project helped me gain practi
 
 
 ---
+## 📁 Dataset Used
+<a href="https://github.com/NandanPatra/Customer-Churn-Analysis-/edit/main/README.md">Data Set</a>
 
+---
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository  
 2. Open it using **Power BI Desktop**  
